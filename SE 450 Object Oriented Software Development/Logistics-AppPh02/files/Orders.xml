@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Orders>
+
+    <Order Id="TO-001">
+        <First>1</First>
+        <Last>Miami, FL</Last>
+        <Item>
+            <ItemId>ABC123</ItemId>
+            <ItemQt>180</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>CR2032</ItemId>
+            <ItemQt>320</ItemQt>
+        </Item>
+    </Order>
+
+    <Order Id="TO-002">
+        <First>1</First>
+        <Last>Boston, MA</Last>
+        <Item>
+            <ItemId>PL132-C</ItemId>
+            <ItemQt>5</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>XLK200B</ItemId>
+            <ItemQt>120</ItemQt>
+        </Item>
+    </Order>
+
+    <Order Id="TO-003">
+        <First>4</First>
+        <Last>Seattle, WA</Last>
+        <Item>
+            <ItemId>XTP202</ItemId>
+            <ItemQt>100</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>E241i</ItemId>
+            <ItemQt>105</ItemQt>
+        </Item>
+    </Order>
+
+    <Order Id="TO-004">
+        <First>10</First>
+        <Last>Phoenix, AZ</Last>
+        <Item>
+            <ItemId>CR2032</ItemId>
+            <ItemQt>200</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>SR71-D</ItemId>
+            <ItemQt>85</ItemQt>
+        </Item>
+    </Order>
+
+    <Order Id="TO-005">
+        <First>7</First>
+        <Last>Chicago, IL</Last>
+        <Item>
+            <ItemId>XLK200B</ItemId>
+            <ItemQt>120</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>RX100-3</ItemId>
+            <ItemQt>200</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>SN-241-L</ItemId>
+            <ItemQt>60</ItemQt>
+        </Item>
+    </Order>
+
+    <Order Id="TO-006">
+        <First>1</First>
+        <Last>Denver, CO</Last>
+        <Item>
+            <ItemId>CT1928</ItemId>
+            <ItemQt>120</ItemQt>
+        </Item>
+        <Item>
+            <ItemId>MM35P</ItemId>
+            <ItemQt>200</ItemQt>
+        </Item>
+    </Order>
+
+</Orders>
+

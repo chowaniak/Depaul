@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Network>
+
+    <Facility Id = "Seattle, WA">
+        <Connection>
+            <ConId>San Francisco, CA</ConId>
+            <ConDist>808</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Fargo, ND</ConId>
+            <ConDist>1426</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "San Francisco, CA">
+        <Connection>
+            <ConId>Seattle, WA</ConId>
+            <ConDist>808</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Los Angeles, CA</ConId>
+            <ConDist>384</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Denver, CO</ConId>
+            <ConDist>1249</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Los Angeles, CA">
+        <Connection>
+            <ConId>San Francisco, CA</ConId>
+            <ConDist>382</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Phoenix, AZ</ConId>
+            <ConDist>372</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Phoenix, AZ">
+        <Connection>
+            <ConId>Los Angeles, CA</ConId>
+            <ConDist>372</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Santa Fe, NM</ConId>
+            <ConDist>480</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Fargo, ND">
+        <Connection>
+            <ConId>Seattle, WA</ConId>
+            <ConDist>1426</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Denver, CO</ConId>
+            <ConDist>889</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Chicago, IL</ConId>
+            <ConDist>643</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Denver, CO">
+        <Connection>
+            <ConId>San Francisco, CA</ConId>
+            <ConDist>1249</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Fargo, ND</ConId>
+            <ConDist>889</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Santa Fe, NM</ConId>
+            <ConDist>392</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>St. Louis, MO</ConId>
+            <ConDist>851</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Santa Fe, NM">
+        <Connection>
+            <ConId>Phoenix, AZ</ConId>
+            <ConDist>480</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Denver, CO</ConId>
+            <ConDist>392</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>St. Louis, MO</ConId>
+            <ConDist>1032</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Austin, TX</ConId>
+            <ConDist>688</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Chicago, IL">
+        <Connection>
+            <ConId>Fargo, ND</ConId>
+            <ConDist>643</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>St. Louis, MO</ConId>
+            <ConDist>297</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Detroit, MI</ConId>
+            <ConDist>282</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New York City, NY</ConId>
+            <ConDist>790</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "St. Louis, MO">
+        <Connection>
+            <ConId>Denver, CO</ConId>
+            <ConDist>851</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Santa Fe, NM</ConId>
+            <ConDist>1032</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Chicago, IL</ConId>
+            <ConDist>297</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Austin, TX</ConId>
+            <ConDist>825</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Nashville, TN</ConId>
+            <ConDist>309</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Austin, TX">
+        <Connection>
+            <ConId>Santa Fe, NM</ConId>
+            <ConDist>688</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>St. Louis, MO</ConId>
+            <ConDist>825</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New Orleans, LA</ConId>
+            <ConDist>512</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Detroit, MI">
+        <Connection>
+            <ConId>Chicago, IL</ConId>
+            <ConDist>282</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Boston, MA</ConId>
+            <ConDist>719</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New York City, NY</ConId>
+            <ConDist>614</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Nashville, TN">
+        <Connection>
+            <ConId>St. Louis, MO</ConId>
+            <ConDist>309</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New Orleans, LA</ConId>
+            <ConDist>532</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Norfolk, VA</ConId>
+            <ConDist>706</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "New Orleans, LA">
+        <Connection>
+            <ConId>Austin, TX</ConId>
+            <ConDist>512</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Nashville, TN</ConId>
+            <ConDist>532</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Atlanta, GA</ConId>
+            <ConDist>469</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Miami, FL</ConId>
+            <ConDist>864</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Boston, MA">
+        <Connection>
+            <ConId>Detroit, MI</ConId>
+            <ConDist>719</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New York City, NY</ConId>
+            <ConDist>215</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "New York City, NY">
+        <Connection>
+            <ConId>Chicago, IL</ConId>
+            <ConDist>790</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Detroit, MI</ConId>
+            <ConDist>614</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Boston, MA</ConId>
+            <ConDist>215</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Norfolk, VA</ConId>
+            <ConDist>363</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Norfolk, VA">
+        <Connection>
+            <ConId>Nashville, TN</ConId>
+            <ConDist>706</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>New York City, NY</ConId>
+            <ConDist>363</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Atlanta, GA</ConId>
+            <ConDist>566</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Atlanta, GA">
+        <Connection>
+            <ConId>New Orleans, LA</ConId>
+            <ConDist>469</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Norfolk, VA</ConId>
+            <ConDist>566</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Miami, FL</ConId>
+            <ConDist>663</ConDist>
+        </Connection>
+    </Facility>
+
+    <Facility Id = "Miami, FL">
+        <Connection>
+            <ConId>New Orleans, LA</ConId>
+            <ConDist>864</ConDist>
+        </Connection>
+        <Connection>
+            <ConId>Atlanta, GA</ConId>
+            <ConDist>663</ConDist>
+        </Connection>
+    </Facility>
+
+</Network>

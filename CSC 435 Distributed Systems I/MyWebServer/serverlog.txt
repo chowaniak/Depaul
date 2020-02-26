@@ -1,0 +1,146 @@
+/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java -javaagent:/home/michal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/173.4548.28/lib/idea_rt.jar=38817:/home/michal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/173.4548.28/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar:/home/michal/CSC435/009.WebServer/MyWebServer/out/production/MyWebServer MyWebServer
+MyWebServer thread started at port: 2540
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt
+GET /cat.html HTTP/1.1
+
+text/html
+
+file name is /cat.html
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt
+GET /dog.txt HTTP/1.1
+
+text/plain
+
+file name is /dog.txt
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt
+GET /addnums.html HTTP/1.1
+
+text/html
+
+file name is /addnums.html
+GET /cgi/addnums.fake-cgi?person=YourName&num1=4&num2=5 HTTP/1.1
+
+text/html
+
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt
+GET /out/ HTTP/1.1
+
+text/html
+
+Folder: production
+GET / HTTP/1.1
+
+text/html
+
+File: MyWebServer.ipr
+File: MyTelnetClient.class
+File: cat.html
+File: MyListener.java
+File: MyWebServer.java
+File: MyWebServerChecklist.html
+File: ReadFiles.java
+Folder: out
+File: MyWebServer.iws
+File: addnums.html
+File: dog.txt
+File: MyWebServer.iml
+File: dir.html
+File: test.html
+File: MyTelnetClient.java
+File: http-streams.txt

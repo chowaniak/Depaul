@@ -1,0 +1,38 @@
+File Manifest for ICPSR 36433
+
+Falcon, Adolph. Healthy Americas Survey, 2014. ICPSR36433-v1. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2016-08-31. http://doi.org/10.3886/ICPSR36433.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36433-descriptioncitation.pdf       -       -         -       2016-09-07  -
+
+    36433-related_literature.txt        -       -         -       daily       -
+
+    36433-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Healthy Americas Survey, 2014
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36433-0001-Codebook.pdf             -       -         -       2016-08-31  2ab3950480b5e342d722d020b24f0a23
+
+    36433-0001-Data.dta                 -       846       178     2016-08-31  b22401011669e8c29f833efd0a2de588
+
+    36433-0001-Data.sav                 -       846       178     2016-08-31  333fa3339c1e7bbe396d6f0661e33e9c
+
+    36433-0001-Data.stc                 -       846       178     2016-08-31  055140aeddcfe01765272cf15c37708d
+
+    36433-0001-Data.tsv                 -       846       178     2016-08-31  11ea50463d703af085e9f5f484fe6914
+
+    36433-0001-Data.txt                 312     846       178     2016-08-31  c5706099540865fd57da76a9bc3004fa
+
+    36433-0001-Setup.sps                -       -         -       2016-08-31  ec563c242603d35b5a982fa22498d04c
+

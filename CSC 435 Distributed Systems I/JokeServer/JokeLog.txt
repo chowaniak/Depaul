@@ -1,0 +1,252 @@
+Michal Chowaniak JokeServer
+Admin thread started at port: 5050
+Server thread started at port: 4545
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+Server received  .....P
+Server is working in proverb mode
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+Server received  .....J
+Server is working in joke mode
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+Server received  .....P
+Server is working in proverb mode
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Michal
+Processing ...
+User name received by server is: Jerzy
+Processing ...
+User name received by server is: Chowaniak
+Processing ...
+
+
+Michal Chowaniak JokeClientAdmin
+Using server: localhost, at Port 5050
+Please press enter to connect to a server
+
+
+Please enter J for joke mode or P for proverb mode: 
+P
+Server is working in proverb mode
+Please enter J for joke mode or P for proverb mode: 
+J
+Server is working in joke mode
+Please enter J for joke mode or P for proverb mode: 
+P
+Server is working in proverb mode
+Please enter J for joke mode or P for proverb mode: 
+
+
+
+Michal Chowaniak JokeClient
+Using server: localhost, at Port 4545
+Enter name please: 
+Michal
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JA Michal How does a network admin great people who come to his house? Welcome to 127.0.0.1
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+JB Michal The box said: Requires Windows 95 or better. So I installed Linux.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PA Michal Manus manum lavat. One hand washes the other.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PB Michal Usus magister est optimus. Practice makes perfect
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PC Michal Absens haeres non erit. Out of sight, out of mind
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PD Michal Si fueris Romae, Romano vivito more, si fueris alibi, vivito sicut ibi. When in Rome, do as the Romans
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PA Michal Manus manum lavat. One hand washes the other.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+PB Michal Usus magister est optimus. Practice makes perfect
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JC Michal What is another name for a computer virus? A terminal illness.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JD Michal How many programmers does it take to change a light bulb? None, it is a hardware problem
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JA Michal How does a network admin great people who come to his house? Welcome to 127.0.0.1
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+JB Michal The box said: Requires Windows 95 or better. So I installed Linux.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PC Michal Absens haeres non erit. Out of sight, out of mind
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PD Michal Si fueris Romae, Romano vivito more, si fueris alibi, vivito sicut ibi. When in Rome, do as the Romans
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PA Michal Manus manum lavat. One hand washes the other.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PB Michal Usus magister est optimus. Practice makes perfect
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PC Michal Absens haeres non erit. Out of sight, out of mind
+
+
+
+
+Michal Chowaniak JokeClient
+Using server: localhost, at Port 4545
+Enter name please: 
+Jerzy
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JA Jerzy How does a network admin great people who come to his house? Welcome to 127.0.0.1
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JB Jerzy The box said: Requires Windows 95 or better. So I installed Linux.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JC Jerzy What is another name for a computer virus? A terminal illness.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+JD Jerzy How many programmers does it take to change a light bulb? None, it is a hardware problem
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PA Jerzy Manus manum lavat. One hand washes the other.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PB Jerzy Usus magister est optimus. Practice makes perfect
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PC Jerzy Absens haeres non erit. Out of sight, out of mind
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PD Jerzy Si fueris Romae, Romano vivito more, si fueris alibi, vivito sicut ibi. When in Rome, do as the Romans
+
+
+
+
+
+Michal Chowaniak JokeClient
+Using server: localhost, at Port 4545
+Enter name please: 
+Chowaniak
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JA Chowaniak How does a network admin great people who come to his house? Welcome to 127.0.0.1
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: J
+JB Chowaniak The box said: Requires Windows 95 or better. So I installed Linux.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+JC Chowaniak What is another name for a computer virus? A terminal illness.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PA Chowaniak Manus manum lavat. One hand washes the other.
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PB Chowaniak Usus magister est optimus. Practice makes perfect
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PC Chowaniak Absens haeres non erit. Out of sight, out of mind
+Type n and press Enter for next joke or proverb, (quit) to end: n
+Connected 
+Server Mode is: P
+PD Chowaniak Si fueris Romae, Romano vivito more, si fueris alibi, vivito sicut ibi. When in Rome, do as the Romans
+Type n and press Enter for next joke or proverb, (quit) to end: nn
+Invalid entry, please enter letter  n  for next
+Connected 
+Server Mode is: P
+PD Chowaniak Si fueris Romae, Romano vivito more, si fueris alibi, vivito sicut ibi. When in Rome, do as the Romans
+

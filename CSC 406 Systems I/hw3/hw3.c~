@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Problem 1
+long sum(long a[], long n) {
+  // implement this
+  return 2; // replace this with appropriate return statement
+}
+
+
+// Problem 2
+int decode2 (int x, int y, int z) {
+  // implement this
+  return 2; // replace this with appropriate return statement
+}
+
+// Problem 3
+// Write here AS A COMMENT the assembly code corresponding to
+// the body of the for loop you implemented in function sum
+
+
+void main () {
+  // test function sum implementation; do not modify!
+
+  long a[8] = {10, 8, 6 , 4, 2, 0, -2, -4};
+  printf("sum(a, 8) = %d\n", sum(a, 8));
+}
